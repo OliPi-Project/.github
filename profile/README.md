@@ -22,7 +22,7 @@ Want to add a feature or improve documentation?
 ---
 
 ##  Join Us
-- Chat: [link to discussion channel]
+- Chat: [Come on Discord](https://discord.gg/pku67XsFEE)
 - Roadmap / Issues / Features in progress: see pinned repos
 
 ---
