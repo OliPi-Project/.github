@@ -1,4 +1,3 @@
-## Hi there 👋
 # OliPi-Project
 
 ***Python3 user interface for I2C/SPI screens on Raspberry-Pi's with IR remote control and/or buttons/rotary encoder wiring on GPIO's.***
