@@ -17,7 +17,7 @@
 Want to add a feature or improve documentation?
 - English is not my language so feel free to correct me ;)
 - Open an issue or PR
-- Check out `CONTRIBUTING.md` in each repo for guidelines (need to be created)
+- Check out `CONTRIBUTING.md` in each repo for guidelines
 
 ---
 
