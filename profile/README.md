@@ -23,7 +23,6 @@ Want to add a feature or improve documentation?
 
 ##  Organization
 - Maintainers: *Trachou2Bois*
-- 
 
 Thanks for checking out **OliPi-Project**!  
 Happy hacking ❤️
