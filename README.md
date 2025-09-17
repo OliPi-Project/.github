@@ -13,21 +13,17 @@
 
 ---
 
-##  Contributing
+##  Join Us / Contributing
 Want to add a feature or improve documentation?
 - English is not my language so feel free to correct me ;)
 - Open an issue or PR
-
----
-
-##  Join Us
-- Chat: [link to discussion channel]
-- Roadmap / Issues / Features in progress: see pinned repos
+- Chat: [Come on Discord]((https://discord.gg/pku67XsFEE))
 
 ---
 
 ##  Organization
 - Maintainers: *Trachou2Bois*
+- 
 
 Thanks for checking out **OliPi-Project**!  
 Happy hacking ❤️
