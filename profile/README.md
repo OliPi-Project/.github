@@ -9,15 +9,15 @@
 |--------|-------------|
 | **OliPi-Core** | Base components and utils shared across projects |
 | **OliPi-Moode** | OLED/LCD interface for Moode Audio with IR & GPIO control |
-| **(Other projects…)** | *(Future additions…)* |
+| **(Other upcoming Projects…)** | *(Future additions…)* |
 
 ---
 
 ##  Join Us / Contributing
 Want to add a feature or improve documentation?
-- English is not my language so feel free to correct me ;)
+- Take a look at the various repositories to see how you can contribute.
 - Open an issue or PR
-- Chat: [Come on Discord]((https://discord.gg/pku67XsFEE))
+- Chat: [Come on Discord](https://discord.gg/pku67XsFEE)
 
 ---
 
